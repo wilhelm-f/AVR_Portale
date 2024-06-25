@@ -1,0 +1,18 @@
+Thema: Portale
+Vorgehen:
+1. "Standard" Portal bauen:
+	1.1 Button teleporitert hmd sofort an neue Position in gleicher Szene 
+	1.2 Button teleportiert hmd sofort an neue Position in anderer Szene
+	1.3 Übergänge testen (z.B. Fade, zwischensequenz etc.)
+2. Portale werden durch kollision mit hmd aktiviert
+3. Portale mit Vorschau der Zielposition
+	3.1 statische Vorschau
+	3.2 dynamische Vorschau
+4. Auswählbare Blickrichtung am Zielort
+
+sonstige Ideen:
+- interaktive Portle, Zielposition kann geändert werden
+- Portale mit kontinuierlicher Bewegung
+- Portale mit nahtlosem übergang
+- Asstes durch Portal werfen
+
