@@ -1969,6 +1969,10 @@ PrefabInstance:
       propertyPath: CameraRig
       value: 
       objectReference: {fileID: 698819027}
+    - target: {fileID: 1483893986664238624, guid: de7715d52033d0a4cacae3b7960c8143, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 1567043993309372211, guid: de7715d52033d0a4cacae3b7960c8143, type: 3}
       propertyPath: m_LocalPosition.x
       value: -3.5
