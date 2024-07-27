@@ -1,5 +1,5 @@
 # Repository für das Unity-Projekt zum Thema Portale in VR
-Ziel dieses Projekts war es, Portale als Fortbewegungsmethode in Unity innerhalb einer VR-Anwendung zu implementieren. Portale sind Objekte in einer Szene, mit denen Nutzer interagieren können, um sofort zu einem Zielort teleportiert zu werden. Zum Ausführen der Skripte wird das Package "Vive Input Utility" benötigt. Das Projekt wurde mit der Meta Quest 2 getestet.
+<p align="justify"> Ziel dieses Projekts war es, Portale als Fortbewegungsmethode in Unity innerhalb einer VR-Anwendung zu implementieren. Portale sind Objekte in einer Szene, mit denen Nutzer interagieren können, um sofort zu einem Zielort teleportiert zu werden. Zum Ausführen der Skripte wird das Package "Vive Input Utility" benötigt. Das Projekt wurde mit der Meta Quest 2 getestet. </p>
 
 ## portale_start
 Die Szene "portale_start" dient als Einstiegsszene und führt den Nutzer durch verschiedene einfache Modelle von Portalen. Der Nutzer kann durch beschriftete 3D-Buttons in der Szene zwischen den einzelnen Tests wechseln. 
