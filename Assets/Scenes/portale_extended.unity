@@ -174,6 +174,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 7355645717103015135, guid: c930ccd876284b5438dc1b9d99e9c6d2, type: 3}
+      propertyPath: CameraRig
+      value: 
+      objectReference: {fileID: 698819027}
     - target: {fileID: 8888725394295700017, guid: c930ccd876284b5438dc1b9d99e9c6d2, type: 3}
       propertyPath: CameraRig
       value: 
@@ -415,6 +419,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 7355645717103015135, guid: c930ccd876284b5438dc1b9d99e9c6d2, type: 3}
+      propertyPath: CameraRig
+      value: 
+      objectReference: {fileID: 698819027}
     - target: {fileID: 8888725394295700017, guid: c930ccd876284b5438dc1b9d99e9c6d2, type: 3}
       propertyPath: CameraRig
       value: 
@@ -1347,6 +1355,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 7355645717103015135, guid: c930ccd876284b5438dc1b9d99e9c6d2, type: 3}
+      propertyPath: CameraRig
+      value: 
+      objectReference: {fileID: 698819027}
     - target: {fileID: 8888725394295700017, guid: c930ccd876284b5438dc1b9d99e9c6d2, type: 3}
       propertyPath: CameraRig
       value: 
@@ -1355,6 +1367,10 @@ PrefabInstance:
       propertyPath: TeleportDestination
       value: 
       objectReference: {fileID: 327998333}
+    - target: {fileID: 8993756022373213726, guid: c930ccd876284b5438dc1b9d99e9c6d2, type: 3}
+      propertyPath: m_Text
+      value: "Weiter zum n\xE4chsten Test"
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -2114,6 +2130,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 7355645717103015135, guid: c930ccd876284b5438dc1b9d99e9c6d2, type: 3}
+      propertyPath: CameraRig
+      value: 
+      objectReference: {fileID: 698819027}
     - target: {fileID: 8888725394295700017, guid: c930ccd876284b5438dc1b9d99e9c6d2, type: 3}
       propertyPath: CameraRig
       value: 

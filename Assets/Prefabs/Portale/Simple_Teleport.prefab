@@ -299,7 +299,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: "Weiter zum n\xE4chsten Test"
+  m_Text: 
 --- !u!1 &7245904173046110354
 GameObject:
   m_ObjectHideFlags: 0
@@ -313,6 +313,7 @@ GameObject:
   - component: {fileID: 6551799713832136783}
   - component: {fileID: 6924448955821445196}
   - component: {fileID: 7675757086043159409}
+  - component: {fileID: 7355645717103015135}
   - component: {fileID: 8888725394295700017}
   m_Layer: 0
   m_Name: Button
@@ -426,6 +427,19 @@ MonoBehaviour:
   Pressed: {fileID: 2100000, guid: 5c80f5e9af1dc234e8a6d4762e51f235, type: 2}
   dragged: {fileID: 2100000, guid: 5c80f5e9af1dc234e8a6d4762e51f235, type: 2}
   heighlightButton: 0
+--- !u!114 &7355645717103015135
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7245904173046110354}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4dda50a8b027b284bbff0bb99c53dd92, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  CameraRig: {fileID: 0}
 --- !u!114 &8888725394295700017
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -441,4 +455,3 @@ MonoBehaviour:
   CameraRig: {fileID: 0}
   DestinationScene: 
   TeleportDestination: {fileID: 0}
-  DeactivatePointers: 1
