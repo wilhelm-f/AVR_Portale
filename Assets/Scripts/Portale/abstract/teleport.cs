@@ -14,7 +14,7 @@ public abstract class Teleport : MonoBehaviour
 
     protected Transform destination;
 
-    protected void teleport_enable(bool deactivatePointers = true)
+    protected void teleport_enable()
     {
         // Suchen der Kamera Komponente des CameraRig
         pivot = CameraRig.Find("Camera").transform;

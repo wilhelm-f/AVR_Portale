@@ -202,6 +202,9 @@ PrefabInstance:
       addedObject: {fileID: 1358124119020984415}
     - targetCorrespondingSourceObject: {fileID: 919132149155446097, guid: 83c89622c6c4ee544b4079e1af2969af, type: 3}
       insertIndex: -1
+      addedObject: {fileID: 4205895005223707513}
+    - targetCorrespondingSourceObject: {fileID: 919132149155446097, guid: 83c89622c6c4ee544b4079e1af2969af, type: 3}
+      insertIndex: -1
       addedObject: {fileID: 629667792070552756}
   m_SourcePrefab: {fileID: 100100000, guid: 83c89622c6c4ee544b4079e1af2969af, type: 3}
 --- !u!1 &3747087866588891939 stripped
@@ -228,7 +231,7 @@ CapsuleCollider:
   m_ProvidesContacts: 0
   m_Enabled: 1
   serializedVersion: 2
-  m_Radius: 0.013
+  m_Radius: 0.01
   m_Height: 0.01
   m_Direction: 1
   m_Center: {x: 0, y: 0.0015, z: 0}
@@ -249,6 +252,19 @@ MonoBehaviour:
   Pressed: {fileID: 2100000, guid: f7291bd07af2ccb47b09045c8a0746fe, type: 2}
   dragged: {fileID: 2100000, guid: f7291bd07af2ccb47b09045c8a0746fe, type: 2}
   heighlightButton: 0
+--- !u!114 &4205895005223707513
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3747087866588891939}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4dda50a8b027b284bbff0bb99c53dd92, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  CameraRig: {fileID: 0}
 --- !u!114 &629667792070552756
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -348,6 +364,9 @@ PrefabInstance:
       addedObject: {fileID: 2692107109533839171}
     - targetCorrespondingSourceObject: {fileID: 919132149155446097, guid: 83c89622c6c4ee544b4079e1af2969af, type: 3}
       insertIndex: -1
+      addedObject: {fileID: 8775690733764638464}
+    - targetCorrespondingSourceObject: {fileID: 919132149155446097, guid: 83c89622c6c4ee544b4079e1af2969af, type: 3}
+      insertIndex: -1
       addedObject: {fileID: 1724893268754515706}
   m_SourcePrefab: {fileID: 100100000, guid: 83c89622c6c4ee544b4079e1af2969af, type: 3}
 --- !u!1 &3563620439797916850 stripped
@@ -374,7 +393,7 @@ CapsuleCollider:
   m_ProvidesContacts: 0
   m_Enabled: 1
   serializedVersion: 2
-  m_Radius: 0.013
+  m_Radius: 0.01
   m_Height: 0.01
   m_Direction: 1
   m_Center: {x: 0, y: 0.0015, z: 0}
@@ -395,6 +414,19 @@ MonoBehaviour:
   Pressed: {fileID: 2100000, guid: f7291bd07af2ccb47b09045c8a0746fe, type: 2}
   dragged: {fileID: 2100000, guid: f7291bd07af2ccb47b09045c8a0746fe, type: 2}
   heighlightButton: 0
+--- !u!114 &8775690733764638464
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3563620439797916850}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4dda50a8b027b284bbff0bb99c53dd92, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  CameraRig: {fileID: 0}
 --- !u!114 &1724893268754515706
 MonoBehaviour:
   m_ObjectHideFlags: 0

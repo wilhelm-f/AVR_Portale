@@ -495,6 +495,14 @@ PrefabInstance:
       propertyPath: CameraRig
       value: 
       objectReference: {fileID: 1426109138}
+    - target: {fileID: 282167665169870675, guid: 63fab3e8d44bb4c4caf273b0b210a755, type: 3}
+      propertyPath: DestinationPortal
+      value: 
+      objectReference: {fileID: 1368530181}
+    - target: {fileID: 282167665169870675, guid: 63fab3e8d44bb4c4caf273b0b210a755, type: 3}
+      propertyPath: TeleportDestination
+      value: 
+      objectReference: {fileID: 1368530181}
     - target: {fileID: 7224649986516956381, guid: 63fab3e8d44bb4c4caf273b0b210a755, type: 3}
       propertyPath: m_LocalScale.x
       value: 2
@@ -1801,6 +1809,10 @@ PrefabInstance:
       propertyPath: CameraRig
       value: 
       objectReference: {fileID: 1426109138}
+    - target: {fileID: 4205895005223707513, guid: a9e15393238ab6c4680dbe058bf443d9, type: 3}
+      propertyPath: CameraRig
+      value: 
+      objectReference: {fileID: 1426109138}
     - target: {fileID: 6897897981261007024, guid: a9e15393238ab6c4680dbe058bf443d9, type: 3}
       propertyPath: PortalSource
       value: 
@@ -1821,6 +1833,10 @@ PrefabInstance:
       propertyPath: PortalDestinations.Array.data[2]
       value: 
       objectReference: {fileID: 388485164}
+    - target: {fileID: 8775690733764638464, guid: a9e15393238ab6c4680dbe058bf443d9, type: 3}
+      propertyPath: CameraRig
+      value: 
+      objectReference: {fileID: 1426109138}
     - target: {fileID: 8975783080159432938, guid: a9e15393238ab6c4680dbe058bf443d9, type: 3}
       propertyPath: m_Name
       value: portal_switch
@@ -2054,7 +2070,11 @@ PrefabInstance:
     - target: {fileID: 282167665169870675, guid: 63fab3e8d44bb4c4caf273b0b210a755, type: 3}
       propertyPath: DestinationPortal
       value: 
-      objectReference: {fileID: 0}
+      objectReference: {fileID: 471306662}
+    - target: {fileID: 282167665169870675, guid: 63fab3e8d44bb4c4caf273b0b210a755, type: 3}
+      propertyPath: TeleportDestination
+      value: 
+      objectReference: {fileID: 471306662}
     - target: {fileID: 7224649986516956381, guid: 63fab3e8d44bb4c4caf273b0b210a755, type: 3}
       propertyPath: m_LocalScale.x
       value: 1.1111112
@@ -2131,6 +2151,10 @@ PrefabInstance:
       objectReference: {fileID: 1426109138}
     - target: {fileID: 282167665169870675, guid: 63fab3e8d44bb4c4caf273b0b210a755, type: 3}
       propertyPath: DestinationPortal
+      value: 
+      objectReference: {fileID: 1592289835}
+    - target: {fileID: 282167665169870675, guid: 63fab3e8d44bb4c4caf273b0b210a755, type: 3}
+      propertyPath: TeleportDestination
       value: 
       objectReference: {fileID: 1592289835}
     - target: {fileID: 7224649986516956381, guid: 63fab3e8d44bb4c4caf273b0b210a755, type: 3}
@@ -2210,6 +2234,10 @@ PrefabInstance:
     - target: {fileID: 175660, guid: cb3370c18187bb444b240cfb08dcc02f, type: 3}
       propertyPath: m_Name
       value: ViveCameraRig
+      objectReference: {fileID: 0}
+    - target: {fileID: 175660, guid: cb3370c18187bb444b240cfb08dcc02f, type: 3}
+      propertyPath: m_TagString
+      value: Untagged
       objectReference: {fileID: 0}
     - target: {fileID: 404836, guid: cb3370c18187bb444b240cfb08dcc02f, type: 3}
       propertyPath: m_LocalPosition.x
@@ -2392,6 +2420,10 @@ PrefabInstance:
       objectReference: {fileID: 1426109138}
     - target: {fileID: 282167665169870675, guid: 63fab3e8d44bb4c4caf273b0b210a755, type: 3}
       propertyPath: DestinationPortal
+      value: 
+      objectReference: {fileID: 1371845513}
+    - target: {fileID: 282167665169870675, guid: 63fab3e8d44bb4c4caf273b0b210a755, type: 3}
+      propertyPath: TeleportDestination
       value: 
       objectReference: {fileID: 1371845513}
     - target: {fileID: 7224649986516956381, guid: 63fab3e8d44bb4c4caf273b0b210a755, type: 3}

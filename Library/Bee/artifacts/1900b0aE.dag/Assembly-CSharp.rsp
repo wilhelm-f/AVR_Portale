@@ -399,9 +399,9 @@
 "Assets/Scripts/Portale/change_portal_dest_button.cs"
 "Assets/Scripts/Portale/portal_pad_3d_button.cs"
 "Assets/Scripts/Portale/portal_pad_input_button.cs"
-"Assets/Scripts/Portale/teleporter_portal.cs"
-"Assets/Scripts/Portale/teleporter_portal_preview.cs"
-"Assets/Scripts/Portale/teleporter_preview_rotation.cs"
+"Assets/Scripts/Portale/portal_preview.cs"
+"Assets/Scripts/Portale/portal_preview_rotation.cs"
+"Assets/Scripts/Portale/portal_vertical.cs"
 "Assets/Scripts/Portale/teleport_3d_button.cs"
 "Assets/Scripts/QuitVIU.cs"
 -langversion:9.0
