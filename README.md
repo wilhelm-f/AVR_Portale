@@ -27,4 +27,4 @@ Nach diesem Testaufbau kann der Nutzer in eine nächste Szene wechseln. </p>
 <p align="justify"> Der letzte Testaufbau verbindet die Idee von Preview-Portalen und Portal-Pads. Hierbei ist ein Portal mit Vorschau mit einem Portal-Pad verbunden. Die Vorschau zeigt hierbei das Pad in einer Top-Down Perspektive mit einem Richtungsindikator. Nähert sich der Nutzer dem Preview-Portal, so kann dieser durch den Stick des rechten Controllers eine Richtung wählen. Beim Betreten des Portals wird der Nutzer dann so teleportiert, dass dieser automatisch in die gewählte Blickrichtung sieht. </p>
 
 ##
-Alle Prefabs und Skripte werden in der [Dokumentation](https://github.com/wilhelm-f/AVR_Portale/blob/main/Doc/Dokumentation.md) genauer beschrieben
+Alle Prefabs und Skripte werden in der [Dokumentation](https://github.com/wilhelm-f/AVR_Portale/blob/main/Doc/Dokumentation.md) und im Code genauer beschrieben.
